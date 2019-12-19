@@ -1,0 +1,39 @@
+{
+    "name": "Inspirationfeed",
+    "description": "Inspirationfeed provides useful information about design, inspiration,tips,icons,fonts, wordpress, tutorials, and other web related topics. Our goal is to inform our readers about the latest trending topics on the web.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28391-inspirationfeed-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/inspirationfeed\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Inspirationfeed",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28391-inspirationfeed-com.jpg",
+            "humanURL": "http:\/\/inspirationfeed.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/inspirationfeed-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Inspirationf"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/inspirationfeed.com"
+        }
+    ]
+}
